@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/button_bg" android:duration="300" />
+    <item android:drawable="@drawable/button_bg_pulse1" android:duration="300" />
+    <item android:drawable="@drawable/button_bg_pulse2" android:duration="300" />
+    <item android:drawable="@drawable/button_bg_pulse3" android:duration="300" />
+    <item android:drawable="@drawable/button_bg_pulse4" android:duration="300" />
+</animation-list>
